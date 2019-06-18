@@ -1,0 +1,16 @@
+/**
+ * @(#)gradescount.java
+ *
+ *
+ * @author 
+ * @version 1.00 2011/10/10
+ */
+
+
+public class gradescount {
+
+    public gradescount() {
+    }
+    
+    
+}
